@@ -1,8 +1,5 @@
 ### Olá! Eu sou a Adrielle Gomes 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
 
 <div>
   <a href-"https://github.com/drimoraesgomes">
