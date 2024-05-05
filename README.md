@@ -11,5 +11,6 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg"/_>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg"/_>       
 
-![snake gif](https://github.com/adriellemoraesgomes/adriellemoraesgomes/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+![snake gif](https://github.com/adriellemoraesgomes/adriellemoraesgomes/blob/output/github-contribution-grid-snake.svg)
