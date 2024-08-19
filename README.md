@@ -13,5 +13,4 @@
 
 </div>
 
-![snake gif](https://github.com/adriellemoraesgomes/adriellemoraesgomes/blob/output/github-contribution-grid-snake.svg)
 
